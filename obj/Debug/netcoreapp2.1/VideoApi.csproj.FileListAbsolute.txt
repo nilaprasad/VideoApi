@@ -1,0 +1,14 @@
+C:\Users\nprasad\Documents\VideoApi\VideoApi\bin\Debug\netcoreapp2.1\VideoApi.deps.json
+C:\Users\nprasad\Documents\VideoApi\VideoApi\bin\Debug\netcoreapp2.1\VideoApi.runtimeconfig.json
+C:\Users\nprasad\Documents\VideoApi\VideoApi\bin\Debug\netcoreapp2.1\VideoApi.runtimeconfig.dev.json
+c:\Users\nprasad\Documents\VideoApi\VideoApi\bin\Debug\netcoreapp2.1\VideoApi.dll
+c:\Users\nprasad\Documents\VideoApi\VideoApi\bin\Debug\netcoreapp2.1\VideoApi.pdb
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.csprojAssemblyReference.cache
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.csproj.CoreCompileInputs.cache
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.RazorAssemblyInfo.cache
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.RazorAssemblyInfo.cs
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.AssemblyInfoInputs.cache
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.AssemblyInfo.cs
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.RazorTargetAssemblyInfo.cache
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.dll
+c:\Users\nprasad\Documents\VideoApi\VideoApi\obj\Debug\netcoreapp2.1\VideoApi.pdb
